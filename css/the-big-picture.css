@@ -9,7 +9,15 @@ body {
     margin-top: 50px;
     margin-bottom: 60px;
     background: none;
+    font-family: 'Roboto', sans-serif;
+}
+
+h1 {
     font-family: 'Shadows Into Light', cursive;
+}
+
+html[lang="mn"] h1 {
+    font-family: 'Roboto', sans-serif;
 }
 
 .full {
